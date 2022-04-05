@@ -1,19 +1,8 @@
 {
-  "Android Browser": [
-    "AN",
-    "MU"
-  ],
-  "BlackBerry Browser": [
-    "BB"
-  ],
-  "Baidu": [
-    "BD",
-    "BS"
-  ],
-  "Amiga": [
-    "AV",
-    "AW"
-  ],
+  "Android Browser": ["AN", "MU"],
+  "BlackBerry Browser": ["BB"],
+  "Baidu": ["BD", "BS"],
+  "Amiga": ["AV", "AW"],
   "Chrome": [
     "CH", "BA", "BR", "CC", "CD", "CM", "CI", "CF", "CN",
     "CR", "CP", "DD", "IR", "RM", "AO", "TS", "VI", "PT",
@@ -25,8 +14,8 @@
     "YJ", "LL", "TU", "XV", "C2", "QU", "YN", "JB", "MR",
     "S6", "7S", "NM", "PB", "UR", "NR", "SG", "S8", "C3",
     "SS", "O2", "SV", "TR", "CW", "GI", "VE", "AC", "FS",
-    "CG", "DR", "C4", "HS", "DA", "C5", "C6", "DG", "CG",
-    "HE", "H2"
+    "CG", "DR", "C4", "HS", "DA", "C5", "C6", "DG", "HE",
+    "H2", "MA", "MD", "O3", "EW", "AI"
   ],
   "Firefox": [
     "FF", "FE", "FM", "SX", "FB", "PX", "MB", "EI", "WF",
@@ -36,39 +25,11 @@
     "QA"
   ],
   "Internet Explorer": ["IE", "IM", "PS", "CZ", "BZ"],
-  "Konqueror": [
-    "KO"
-  ],
-  "NetFront": [
-    "NF"
-  ],
-  "NetSurf": [
-    "NE"
-  ],
-  "Nokia Browser": [
-    "NB",
-    "NO",
-    "NV",
-    "DO"
-  ],
-  "Opera": [
-    "OP",
-    "OM",
-    "OI",
-    "ON",
-    "OO",
-    "OG",
-    "OH",
-    "O1",
-    "OX"
-  ],
-  "Safari": [
-    "SF",
-    "MF",
-    "SO",
-    "S7"
-  ],
-  "Sailfish Browser": [
-    "SA"
-  ]
+  "Konqueror": ["KO"],
+  "NetFront": ["NF"],
+  "NetSurf": ["NE"],
+  "Nokia Browser": ["NB", "NO", "NV", "DO"],
+  "Opera": ["OP", "OM", "OI", "ON", "OO", "OG", "OH", "O1", "OX"],
+  "Safari": ["SF", "MF", "SO", "S7"],
+  "Sailfish Browser": ["SA"]
 }
